@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "Kyuros1",
+    "Name": "Beast Keeper",
+    "InternalName": "BeastKeeper",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "Stop re-picking your Beastmaster familiars before every Crucible battle.",
+    "Description": "picks the first 3 beasts / remembers your beast selection and sets it by default, as it should have been",
+    "Changelog": "First release.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Kyuros1/BeastKeeper",
+    "IconUrl": "https://raw.githubusercontent.com/Kyuros1/BeastKeeper/main/images/icon.png",
+    "Tags": [
+      "beastmaster",
+      "crucible",
+      "familiar",
+      "battlehorn"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1790810537,
+    "DownloadLinkInstall": "https://github.com/Kyuros1/BeastKeeper/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Kyuros1/BeastKeeper/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Kyuros1/BeastKeeper/releases/latest/download/latest.zip"
+  }
+]
